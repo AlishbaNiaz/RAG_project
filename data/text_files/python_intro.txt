@@ -1,0 +1,124 @@
+Python Introduction
+
+Python is a high-level, interpreted, and general-purpose programming language created by Guido van Rossum and first released in 1991. It is known for its simple syntax, readability, and ease of learning, making it one of the most popular programming languages in the world.
+
+Features of Python:
+- Easy to read and write
+- Free and open source
+- Cross-platform (Windows, macOS, Linux)
+- Object-oriented programming support
+- Large standard library
+- Supports multiple programming paradigms
+- Dynamic typing
+- Automatic memory management
+
+Applications of Python:
+- Web Development
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Automation and Scripting
+- Game Development
+- Cybersecurity
+- Desktop Applications
+
+Advantages of Python:
+- Beginner-friendly syntax
+- Huge community support
+- Thousands of third-party libraries
+- Fast development process
+- Excellent documentation
+
+Disadvantages of Python:
+- Slower than compiled languages like C++
+- Higher memory usage
+- Not commonly used for mobile app development
+- Less suitable for real-time systems
+
+Python Variables:
+Variables are used to store data.
+
+Example:
+x = 10
+name = "Alice"
+price = 99.99
+
+Python Data Types:
+- int
+- float
+- str
+- bool
+- list
+- tuple
+- set
+- dictionary
+
+Example:
+age = 21
+height = 5.8
+student = True
+
+Python Operators:
+- Arithmetic Operators (+, -, *, /, %)
+- Comparison Operators (==, !=, >, <)
+- Logical Operators (and, or, not)
+- Assignment Operators (=, +=, -=)
+
+Control Statements:
+Python uses if, elif, and else for decision making.
+
+Example:
+if marks >= 50:
+    print("Pass")
+else:
+    print("Fail")
+
+Loops:
+Python provides for and while loops.
+
+Example:
+for i in range(5):
+    print(i)
+
+Functions:
+Functions help organize reusable code.
+
+Example:
+def greet(name):
+    return "Hello " + name
+
+print(greet("Alice"))
+
+Object-Oriented Programming:
+Python supports classes and objects.
+
+Example:
+class Student:
+    def __init__(self, name):
+        self.name = name
+
+Python Libraries:
+Popular Python libraries include:
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Flask
+- Django
+- LangChain
+
+Python Package Manager:
+Python uses pip to install packages.
+
+Example:
+pip install numpy
+
+Virtual Environment:
+A virtual environment creates an isolated Python environment for each project.
+
+Example:
+python -m venv .venv
+
+Python is widely used in AI and Machine Learning because of its rich ecosystem of libraries, simple syntax, and strong community support. It is also the primary language used for building applications with LangChain, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs).
